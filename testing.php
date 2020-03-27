@@ -5,3 +5,4 @@
     <entry key="URLAPIPCARE">https://dvlp.bpjs-kesehatan.go.id:9081/pcare-rest-v3.0</entry>
     <entry key="SECRETKEYAPIPCARE">7nR04456993B</entry>
     <entry key="CONSIDAPIPCARE">124353423</entry>
+kodekukodeku
